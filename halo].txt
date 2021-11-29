@@ -1,0 +1,25 @@
+//background
+color.css:2623
+.menu_mobile_inner
+background-color: #352d89;
+
+//menu a
+color.css:2639
+.menu_mobile_inner a
+color: #ffffff;
+
+//hover menu a
+color.css:2642
+.scheme_dark .menu_mobile_inner .current-menu-item>a 
+color: #faef81
+
+//update warna font menu
+#007ABF
+hover
+#0e0e12 
+
+nik, tgl pengajuan
+tgl awal dan akhir absen/cuti
+kode cuti
+alasan
+status pengajuan 
